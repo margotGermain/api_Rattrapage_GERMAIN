@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "efd347f4-9406-4bdc-9dbb-cb5aaffcb2fc",
+      "email": "mmm",
+      "lastName": "GERMAIN",
+      "firstName": "margoooot",
+      "channel": 12
+    },
+    {
+      "id": "e5759577-94d5-4e11-87e4-7cfd67de6646",
+      "email": "lmmm",
+      "lastName": "GRMAIN",
+      "firstName": "Magot",
+      "channel": 3
+    },
+    {
+      "id": "a7d355f2-d0f8-41f3-913e-cc97e94e3c0d",
+      "channel": "6542cbc7-d3ee-43f1-8897-deb159e32230",
+      "email": "api test",
+      "lastName": "API",
+      "firstName": "Test1"
+    },
+    {
+      "id": "7f1807fb-9d58-4344-ade6-c759f93bbaf5",
+      "channel": "8b2224c8-2978-46d5-af2d-cf5f0d46b18d",
+      "email": "moi",
+      "lastName": "moi",
+      "firstName": "moi"
+    }
+  ],
+  "messages": [
+    {
+      "id": "3e0136eb-4df5-4418-a17c-c98a1f0cd9e2",
+      "description": "Mon message",
+      "firstName": "margoooot"
+    },
+    {
+      "idMessage": "e8b0e51b-7f3c-4d8c-8bc9-7d274c2c30fc",
+      "description": "Mon message test",
+      "firstName": "margoooot"
+    },
+    {
+      "id": "47f03189-e83b-4d05-bc63-844dd44d5a22",
+      "description": "message de postman",
+      "firstName": "margot"
+    },
+    {
+      "id": "12224ccb-0abd-494f-a893-634cf05c2ad1",
+      "description": "j ai edit mon message",
+      "firstName": "margoootttee"
+    },
+    {
+      "id": "cbd1fc92-1fb6-4ef7-93c2-b125d1044293",
+      "description": "c'est moi le msg d'api",
+      "firstName": "mp"
+    },
+    {
+      "id": "73d04787-bd43-4167-8f92-aefc3c64e698",
+      "description": "ca marche",
+      "firstName": "a"
+    }
+  ]
+}
